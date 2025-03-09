@@ -352,11 +352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fates\\source\\repos\\LobbySchematic\\LobbySchematic.csproj",
+      "projectUniqueName": "C:\\Users\\fates\\Documents\\GitHub\\LobbySchematic\\LobbySchematic.csproj",
       "projectName": "LobbySchematic",
-      "projectPath": "C:\\Users\\fates\\source\\repos\\LobbySchematic\\LobbySchematic.csproj",
+      "projectPath": "C:\\Users\\fates\\Documents\\GitHub\\LobbySchematic\\LobbySchematic.csproj",
       "packagesPath": "C:\\Users\\fates\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fates\\source\\repos\\LobbySchematic\\obj\\",
+      "outputPath": "C:\\Users\\fates\\Documents\\GitHub\\LobbySchematic\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
